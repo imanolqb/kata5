@@ -6,6 +6,6 @@
 El siguiente repositorio tiene como objetivo desarrollar un servicio web que utilice el patrón de diseño Adapter.
 
 ## Tareas
-Se debe seguir usando git y github para mostrar la evolución del desarrollo de la aplicación.El alumno puede ampliar una aplicación Java como el money calculator, basándose en una kata anterior o con una funcionalidad completamente nueva. El adaptador deberá transformar las solicitudes (requests) en un formato compatible con la arquitectura interna y, a su vez, convertir las respuestas de vuelta.
+El alumno puede ampliar una aplicación Java como el money calculator, basándose en una kata anterior o con una funcionalidad completamente nueva. El adaptador deberá transformar las solicitudes (requests) en un formato compatible con la arquitectura interna y, a su vez, convertir las respuestas de vuelta.
 
 Se debe seguir usando git y github para mostrar la evolución del desarrollo de la aplicación.
